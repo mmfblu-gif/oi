@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "idioma": "pt-BR",
+  "variacoes_por_evento": 3,
+  "mapeamento_animacoes": {
+    "cs": {
+      "abate": "Goal",
+      "morte": "Conceded",
+      "vitoria": "Victory",
+      "derrota": "Defeat"
+    },
+    "minecraft": {
+      "conquista": "Victory",
+      "morte": "Defeat"
+    }
+  },
+  "buddies": {
+    "Astro": {
+      "cs": {
+        "abate": [
+          "ALVO FORA DE ÓRBITA!",
+          "MIRA DE OUTRO PLANETA!",
+          "ABATE ESTELAR!"
+        ],
+        "morte": [
+          "PERDEMOS O SINAL...",
+          "ESSA DOEU ATÉ EM MARTE.",
+          "TÔ AQUI, COMANDANTE."
+        ],
+        "vitoria": [
+          "MISSÃO CUMPRIDA!",
+          "GG INTERGALÁCTICO!",
+          "ESSA DUPLA VAI LONGE!"
+        ],
+        "derrota": [
+          "MISSÃO NÃO CONCLUÍDA.",
+          "ATÉ A LUA TEM FASES.",
+          "VAMOS RECALCULAR A ROTA."
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA EM ÓRBITA!",
+          "UM BLOCO PRA HISTÓRIA!",
+          "EXPLORAÇÃO DE SUCESSO!"
+        ],
+        "morte": [
+          "SINAL PERDIDO NO MUNDO.",
+          "FICOU UM VAZIO AQUI...",
+          "ESSA JORNADA DOEU."
+        ]
+      }
+    },
+    "Mochi": {
+      "cs": {
+        "abate": [
+          "ABATE NA PATINHA!",
+          "MIRA FELINA!",
+          "PEGAMOS ESSE, MIAU!"
+        ],
+        "morte": [
+          "QUERIA TE DAR UMA VIDA.",
+          "MINHAS ORELHAS CAÍRAM.",
+          "VEM CÁ, TÔ COM VOCÊ."
+        ],
+        "vitoria": [
+          "GG COM RONRON!",
+          "PATINHAS PRO ALTO!",
+          "VITÓRIA PRA NOSSA DUPLA!"
+        ],
+        "derrota": [
+          "HOJE O NOVELO ENROLOU.",
+          "PERDI ATÉ O RONRON...",
+          "A GENTE AINDA ARRANHA!"
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA, MIAU!",
+          "PATINHA NESSA MEDALHA!",
+          "ESSE MUNDO É UM NOVELO!"
+        ],
+        "morte": [
+          "CADÊ MINHAS NOVE VIDAS?",
+          "MEU BIGODE ATÉ CAIU...",
+          "QUERIA TE DAR UM COLO."
+        ]
+      }
+    },
+    "Bolt": {
+      "cs": {
+        "abate": [
+          "ABATE CONFIRMADO!",
+          "PRECISÃO EM DIA!",
+          "MIRA CALIBRADA!"
+        ],
+        "morte": [
+          "SINAL DO PARCEIRO: OFF.",
+          "MEU LED FICOU TRISTE.",
+          "FALHA NA NOSSA DUPLA."
+        ],
+        "vitoria": [
+          "VITÓRIA PROCESSADA!",
+          "GG EM TODOS OS CIRCUITOS!",
+          "ENERGIA NO MÁXIMO!"
+        ],
+        "derrota": [
+          "RESULTADO INESPERADO.",
+          "HORA DE RECALIBRAR.",
+          "A TORCIDA NÃO DESLIGA."
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA REGISTRADA!",
+          "PROGRESSO EM BLOCOS!",
+          "OBJETIVO COMPILADO!"
+        ],
+        "morte": [
+          "EXPLORADOR SEM SINAL.",
+          "MEUS CIRCUITOS SENTIRAM.",
+          "ERRO: SAUDADE DO PARCEIRO."
+        ]
+      }
+    },
+    "Drako": {
+      "cs": {
+        "abate": [
+          "ABATE QUENTINHO!",
+          "ESSA MIRA COSPE FOGO!",
+          "PEGOU FOGO NA MIRA!"
+        ],
+        "morte": [
+          "MINHA CHAMA ATÉ BAIXOU.",
+          "ISSO DOEU NAS ESCAMAS.",
+          "QUERIA TER TE COBERTO."
+        ],
+        "vitoria": [
+          "VITÓRIA DE DRAGÃO!",
+          "GG EM CHAMAS!",
+          "ESSA VAI PRO TESOURO!"
+        ],
+        "derrota": [
+          "HOJE A CHAMA FALHOU.",
+          "DERROTA NÃO APAGA FOGO.",
+          "AINDA TENHO UMA BRASA."
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA PRO TESOURO!",
+          "ATÉ O ENDER IA APLAUDIR!",
+          "UMA LENDA EM BLOCOS!"
+        ],
+        "morte": [
+          "MINHA BRASA FICOU FRIA.",
+          "NEM MINHA ASA TE SALVOU.",
+          "DOEU MAIS QUE ESPADA."
+        ]
+      }
+    },
+    "Kitsu": {
+      "cs": {
+        "abate": [
+          "ABATE ENCANTADO!",
+          "A MIRA TEM FEITIÇO!",
+          "SUMIU NUM TRUQUE!"
+        ],
+        "morte": [
+          "MEU AMULETO FALHOU...",
+          "BAIXEI AS TRÊS CAUDAS.",
+          "QUERIA UM FEITIÇO AGORA."
+        ],
+        "vitoria": [
+          "VITÓRIA ENFEITIÇADA!",
+          "TRÊS CAUDAS, UM GG!",
+          "A LENDA É DA NOSSA DUPLA!"
+        ],
+        "derrota": [
+          "ESSE FEITIÇO DESANDOU.",
+          "ATÉ A SORTE TROPEÇA.",
+          "GUARDEI UM ÚLTIMO TRUQUE."
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA ENCANTADA!",
+          "UM NOVO TRUQUE EM BLOCOS!",
+          "MAIS UMA LENDA NO LIVRO!"
+        ],
+        "morte": [
+          "MEU AMULETO RACHOU.",
+          "AS CAUDAS SENTIRAM...",
+          "NEM A MAGIA SEGUROU."
+        ]
+      }
+    },
+    "Nimbo": {
+      "cs": {
+        "abate": [
+          "UM RAIO DE ABATE!",
+          "MIRA DE TROVÃO!",
+          "CAIU NO NOSSO RAIO!"
+        ],
+        "morte": [
+          "FECHOU O TEMPO AQUI.",
+          "CHOVEU NO MEU CORAÇÃO.",
+          "MINHA NUVEM PESOU..."
+        ],
+        "vitoria": [
+          "VITÓRIA DE CÉU ABERTO!",
+          "ARCO-ÍRIS NO GG!",
+          "O SOL É DA NOSSA DUPLA!"
+        ],
+        "derrota": [
+          "TEMPESTADE NO PLACAR.",
+          "ESSA NUVEM VAI PASSAR.",
+          "HOJE O CÉU FICOU CINZA."
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA DE CÉU ABERTO!",
+          "UM ARCO-ÍRIS EM BLOCOS!",
+          "CHUVA DE CONQUISTAS!"
+        ],
+        "morte": [
+          "CHOVEU NO NOSSO MUNDO.",
+          "O CÉU FICOU QUIETINHO.",
+          "ATÉ MEU RAIO SE APAGOU."
+        ]
+      }
+    },
+    "Marina": {
+      "cs": {
+        "abate": [
+          "ABATE NO BEAT!",
+          "ESSA MIRA TÁ NO RITMO!",
+          "DROP DE ABATE!"
+        ],
+        "morte": [
+          "O BEAT PAROU AQUI...",
+          "MEU FONE FICOU MUDO.",
+          "ESSE CORTE DOEU NO SET."
+        ],
+        "vitoria": [
+          "ESSA VITÓRIA VIROU HIT!",
+          "GG NA PISTA TODA!",
+          "OITO BRAÇOS CELEBRANDO!"
+        ],
+        "derrota": [
+          "HOJE O SET DESANDOU.",
+          "VAMOS REMIXAR ESSA.",
+          "A DUPLA NÃO SAI DO RITMO."
+        ]
+      },
+      "minecraft": {
+        "conquista": [
+          "CONQUISTA NO PLAY!",
+          "ESSE BLOCO VIROU HIT!",
+          "MAIS UMA FAIXA NA LENDA!"
+        ],
+        "morte": [
+          "O MUNDO FICOU SEM SOM.",
+          "PAUSA TRISTE NO SET...",
+          "MEUS OITO BRAÇOS CAÍRAM."
+        ]
+      }
+    }
+  }
+}
