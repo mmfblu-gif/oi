@@ -1,0 +1,5 @@
+bin/
+obj/
+review/bin/
+review/obj/
+review/scenes.json

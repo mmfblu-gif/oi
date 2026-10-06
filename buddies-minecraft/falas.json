@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "edition": "Minecraft Java",
+  "event_animation": {
+    "minerio_obtido": "Goal",
+    "minerio_raro": "Impressed",
+    "conquista": "Victory",
+    "morte": "Defeat",
+    "bancada_aberta": "Crafting"
+  },
+  "buddies": {
+    "Astro": {
+      "events": {
+        "minerio_obtido": [
+          "AMOSTRA ESPACIAL COLETADA!",
+          "MINÉRIO NA CARGA!",
+          "EXPLORAÇÃO RENDENDO!"
+        ],
+        "minerio_raro": [
+          "ACHADO DE OUTRO PLANETA!",
+          "OLHA O BRILHO DISSO!",
+          "RARIDADE EM ÓRBITA!"
+        ],
+        "conquista": [
+          "CONQUISTA EM ÓRBITA!",
+          "UM BLOCO PRA HISTÓRIA!",
+          "EXPLORAÇÃO DE SUCESSO!"
+        ],
+        "morte": [
+          "SINAL PERDIDO NO MUNDO.",
+          "FICOU UM VAZIO AQUI...",
+          "ESSA JORNADA DOEU."
+        ],
+        "bancada_aberta": [
+          "ABRINDO O PROJETO LUNAR.",
+          "VAMOS PLANEJAR ESSA BASE!",
+          "UM BLOCO PRA DECOLAR."
+        ]
+      },
+      "rare_specific": {
+        "diamond": "DIAMANTE ESTELAR!",
+        "emerald": "ESMERALDA EM ÓRBITA!",
+        "ancient_debris": "DETRITOS DE OUTRO MUNDO!"
+      }
+    },
+    "Mochi": {
+      "events": {
+        "minerio_obtido": [
+          "MINÉRIO NA PATINHA!",
+          "ESSE BRILHA, MIAU!",
+          "MAIS UM PRO NOSSO BAÚ!"
+        ],
+        "minerio_raro": [
+          "ATÉ ARREGALEI OS OLHOS!",
+          "BRILHOU ATÉ NO BIGODE!",
+          "MINHA PATINHA DEU SORTE!"
+        ],
+        "conquista": [
+          "CONQUISTA, MIAU!",
+          "PATINHA NESSA MEDALHA!",
+          "ESSE MUNDO É UM NOVELO!"
+        ],
+        "morte": [
+          "CADÊ MINHAS NOVE VIDAS?",
+          "MEU BIGODE ATÉ CAIU...",
+          "QUERIA TE DAR UM COLO."
+        ],
+        "bancada_aberta": [
+          "PATINHA FIRME NO LÁPIS.",
+          "UMA CASINHA PRA COCHILAR?",
+          "VOU RISCAR ESSE PROJETO!"
+        ]
+      },
+      "rare_specific": {
+        "diamond": "DIAMANTE, MIAU!",
+        "emerald": "ESMERALDA COR DE MOCHI!",
+        "ancient_debris": "DETRITOS? QUE ACHADO!"
+      }
+    },
+    "Bolt": {
+      "events": {
+        "minerio_obtido": [
+          "MINÉRIO CATALOGADO!",
+          "RECURSO ADICIONADO!",
+          "COLETA EFICIENTE!"
+        ],
+        "minerio_raro": [
+          "RARIDADE DETECTADA!",
+          "MEU LED ATÉ BRILHOU!",
+          "VALOR ACIMA DO ESPERADO!"
+        ],
+        "conquista": [
+          "CONQUISTA REGISTRADA!",
+          "PROGRESSO EM BLOCOS!",
+          "OBJETIVO COMPILADO!"
+        ],
+        "morte": [
+          "EXPLORADOR SEM SINAL.",
+          "MEUS CIRCUITOS SENTIRAM.",
+          "ERRO: SAUDADE DO PARCEIRO."
+        ],
+        "bancada_aberta": [
+          "CARREGANDO A PLANTA...",
+          "RÉGUA VIRTUAL ATIVADA.",
+          "PROJETO EM PROCESSAMENTO."
+        ]
+      },
+      "rare_specific": {
+        "diamond": "DIAMANTE CONFIRMADO!",
+        "emerald": "ESMERALDA IDENTIFICADA!",
+        "ancient_debris": "DETRITOS CATALOGADOS!"
+      }
+    },
+    "Drako": {
+      "events": {
+        "minerio_obtido": [
+          "MAIS UM PRO TESOURO!",
+          "GUARDA NA NOSSA PILHA!",
+          "ESSA COLETA ESQUENTOU!"
+        ],
+        "minerio_raro": [
+          "MINHAS ESCAMAS BRILHARAM!",
+          "ISSO MERECE UM COFRE!",
+          "QUE TESOURO É ESSE?!"
+        ],
+        "conquista": [
+          "CONQUISTA PRO TESOURO!",
+          "ATÉ O ENDER IA APLAUDIR!",
+          "UMA LENDA EM BLOCOS!"
+        ],
+        "morte": [
+          "MINHA BRASA FICOU FRIA.",
+          "NEM MINHA ASA TE SALVOU.",
+          "DOEU MAIS QUE ESPADA."
+        ],
+        "bancada_aberta": [
+          "PLANEJANDO NOSSO CASTELO.",
+          "LÁPIS LONGE DO MEU FOGO.",
+          "CABEM ASAS NESSE PROJETO?"
+        ]
+      },
+      "rare_specific": {
+        "diamond": "DIAMANTE PRO TESOURO!",
+        "emerald": "ESMERALDA DE DRAGÃO!",
+        "ancient_debris": "TESOURO DO NETHER!"
+      }
+    },
+    "Kitsu": {
+      "events": {
+        "minerio_obtido": [
+          "COLETA COM UM TRUQUE!",
+          "MEU AMULETO TÁ EM DIA.",
+          "MINÉRIO NA NOSSA BOLSA!"
+        ],
+        "minerio_raro": [
+          "AS TRÊS CAUDAS PARARAM!",
+          "PARECE ATÉ FEITIÇO!",
+          "OLHA O QUE A SORTE TROUXE!"
+        ],
+        "conquista": [
+          "CONQUISTA ENCANTADA!",
+          "UM NOVO TRUQUE EM BLOCOS!",
+          "MAIS UMA LENDA NO LIVRO!"
+        ],
+        "morte": [
+          "MEU AMULETO RACHOU.",
+          "AS CAUDAS SENTIRAM...",
+          "NEM A MAGIA SEGUROU."
+        ],
+        "bancada_aberta": [
+          "DESENHANDO NOSSO REFÚGIO.",
+          "UM TRAÇO DE MAGIA AQUI.",
+          "TRÊS CAUDAS, UM PROJETO."
+        ]
+      },
+      "rare_specific": {
+        "diamond": "DIAMANTE ENCANTADO!",
+        "emerald": "ESMERALDA DA SORTE!",
+        "ancient_debris": "UM ACHADO ANCESTRAL!"
+      }
+    },
+    "Nimbo": {
+      "events": {
+        "minerio_obtido": [
+          "CHOVEU MINÉRIO!",
+          "COLETA DE CÉU ABERTO!",
+          "MAIS RECURSOS NO RADAR!"
+        ],
+        "minerio_raro": [
+          "ABRIU UM SOL AQUI!",
+          "QUE RAIO DE SORTE!",
+          "ESSE ACHADO É UM CLARÃO!"
+        ],
+        "conquista": [
+          "CONQUISTA DE CÉU ABERTO!",
+          "UM ARCO-ÍRIS EM BLOCOS!",
+          "CHUVA DE CONQUISTAS!"
+        ],
+        "morte": [
+          "CHOVEU NO NOSSO MUNDO.",
+          "O CÉU FICOU QUIETINHO.",
+          "ATÉ MEU RAIO SE APAGOU."
+        ],
+        "bancada_aberta": [
+          "VOU DESENHAR UM TELHADO.",
+          "PROJETO À PROVA DE CHUVA!",
+          "UM TRAÇO, UMA NUVEM."
+        ]
+      },
+      "rare_specific": {
+        "diamond": "CHUVA DE DIAMANTES!",
+        "emerald": "ESMERALDA NO RADAR!",
+        "ancient_debris": "DETRITOS NA PREVISÃO!"
+      }
+    },
+    "Marina": {
+      "events": {
+        "minerio_obtido": [
+          "COLETA NO COMPASSO!",
+          "MINÉRIO NO NOSSO SET!",
+          "MAIS UM NO RITMO!"
+        ],
+        "minerio_raro": [
+          "PAREI ATÉ O BEAT!",
+          "ESSE ACHADO VIROU HIT!",
+          "OITO BRAÇOS EM CHOQUE!"
+        ],
+        "conquista": [
+          "CONQUISTA NO PLAY!",
+          "ESSE BLOCO VIROU HIT!",
+          "MAIS UMA FAIXA NA LENDA!"
+        ],
+        "morte": [
+          "O MUNDO FICOU SEM SOM.",
+          "PAUSA TRISTE NO SET...",
+          "MEUS OITO BRAÇOS CAÍRAM."
+        ],
+        "bancada_aberta": [
+          "DESENHANDO NOSSO PALCO.",
+          "O LÁPIS TÁ NO RITMO!",
+          "OITO BRAÇOS NA OBRA!"
+        ]
+      },
+      "rare_specific": {
+        "diamond": "DIAMANTE NO DROP!",
+        "emerald": "ESMERALDA NA PLAYLIST!",
+        "ancient_debris": "DETRITOS VIRARAM HIT!"
+      }
+    }
+  }
+}

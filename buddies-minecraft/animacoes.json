@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "canvas_size": 260,
+  "tile_width": 160,
+  "tile_height": 160,
+  "columns": 8,
+  "order": "row-major",
+  "characters": {
+    "Astro": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/astro/normal/CraftingIntro.png",
+        "gentle": "sprites/astro/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/astro/normal/Crafting.png",
+        "gentle": "sprites/astro/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/astro/normal/ImpressedDiamond.png",
+        "gentle": "sprites/astro/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/astro/normal/ImpressedEmerald.png",
+        "gentle": "sprites/astro/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/astro/normal/ImpressedDebris.png",
+        "gentle": "sprites/astro/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    },
+    "Mochi": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/mochi/normal/CraftingIntro.png",
+        "gentle": "sprites/mochi/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/mochi/normal/Crafting.png",
+        "gentle": "sprites/mochi/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/mochi/normal/ImpressedDiamond.png",
+        "gentle": "sprites/mochi/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/mochi/normal/ImpressedEmerald.png",
+        "gentle": "sprites/mochi/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/mochi/normal/ImpressedDebris.png",
+        "gentle": "sprites/mochi/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    },
+    "Bolt": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/bolt/normal/CraftingIntro.png",
+        "gentle": "sprites/bolt/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/bolt/normal/Crafting.png",
+        "gentle": "sprites/bolt/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/bolt/normal/ImpressedDiamond.png",
+        "gentle": "sprites/bolt/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/bolt/normal/ImpressedEmerald.png",
+        "gentle": "sprites/bolt/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/bolt/normal/ImpressedDebris.png",
+        "gentle": "sprites/bolt/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    },
+    "Drako": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/drako/normal/CraftingIntro.png",
+        "gentle": "sprites/drako/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/drako/normal/Crafting.png",
+        "gentle": "sprites/drako/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/drako/normal/ImpressedDiamond.png",
+        "gentle": "sprites/drako/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/drako/normal/ImpressedEmerald.png",
+        "gentle": "sprites/drako/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/drako/normal/ImpressedDebris.png",
+        "gentle": "sprites/drako/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    },
+    "Kitsu": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/kitsu/normal/CraftingIntro.png",
+        "gentle": "sprites/kitsu/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/kitsu/normal/Crafting.png",
+        "gentle": "sprites/kitsu/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/kitsu/normal/ImpressedDiamond.png",
+        "gentle": "sprites/kitsu/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/kitsu/normal/ImpressedEmerald.png",
+        "gentle": "sprites/kitsu/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/kitsu/normal/ImpressedDebris.png",
+        "gentle": "sprites/kitsu/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    },
+    "Nimbo": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/nimbo/normal/CraftingIntro.png",
+        "gentle": "sprites/nimbo/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/nimbo/normal/Crafting.png",
+        "gentle": "sprites/nimbo/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/nimbo/normal/ImpressedDiamond.png",
+        "gentle": "sprites/nimbo/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/nimbo/normal/ImpressedEmerald.png",
+        "gentle": "sprites/nimbo/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/nimbo/normal/ImpressedDebris.png",
+        "gentle": "sprites/nimbo/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    },
+    "Marina": {
+      "CraftingIntro": {
+        "frames": 16,
+        "rows": 2,
+        "duration_seconds": 0.6,
+        "loop": false,
+        "normal": "sprites/marina/normal/CraftingIntro.png",
+        "gentle": "sprites/marina/suave/CraftingIntro.png",
+        "next": "Crafting"
+      },
+      "Crafting": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 6,
+        "loop": true,
+        "normal": "sprites/marina/normal/Crafting.png",
+        "gentle": "sprites/marina/suave/Crafting.png",
+        "next": "Crafting"
+      },
+      "ImpressedDiamond": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/marina/normal/ImpressedDiamond.png",
+        "gentle": "sprites/marina/suave/ImpressedDiamond.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedEmerald": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/marina/normal/ImpressedEmerald.png",
+        "gentle": "sprites/marina/suave/ImpressedEmerald.png",
+        "next": "previous_activity_or_idle"
+      },
+      "ImpressedDebris": {
+        "frames": 64,
+        "rows": 8,
+        "duration_seconds": 4.2,
+        "loop": false,
+        "normal": "sprites/marina/normal/ImpressedDebris.png",
+        "gentle": "sprites/marina/suave/ImpressedDebris.png",
+        "next": "previous_activity_or_idle"
+      }
+    }
+  }
+}
